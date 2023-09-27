@@ -2,4 +2,4 @@
 #### An todo app application developed using React.js where you can add notes.
 ##### You can view the site [**here.**](https://to-do-appreactjs.netlify.app/)
 
-![Ekran görüntüsü 2023-09-27 230904](https://github.com/hasanilteris/TodoApp/assets/82460438/7dd30b51-967a-4052-8ca1-88b6df9c45ab)
+![image](https://github.com/hasanilteris/TodoApp/assets/82460438/5a7fb57e-113b-4e4b-ac67-cd7fdf1c27a2)
